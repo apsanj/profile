@@ -1,6 +1,6 @@
 # Aparna Sanjay | Portfolio
 
-A responsive, single-page personal portfolio for Aparna Sanjay, Mathematics Teacher. Built with plain HTML, CSS and JavaScript, with no build step or dependencies.
+A responsive, single-page personal portfolio for Aparna Sanjay, Assistant Professor. Built with plain HTML, CSS and JavaScript, with no build step or dependencies.
 
 ## Features
 - Hero, about, experience timeline, education, skills, references and contact sections
